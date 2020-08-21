@@ -1,0 +1,1 @@
+The analysis was made to predict the sale price of test dataset. I have made some assumption while dealing with missing value based on the nature of the data and industry. After building couple of ML Algorithms, I have found that Random Forest Classifier has the best accuracy so I considered Random Forest as my model to predict sale price of test dataset.
